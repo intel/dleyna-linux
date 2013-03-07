@@ -1,0 +1,15 @@
+[submodule "dleyna-core"]
+	path = dleyna-core
+	url = git@github.com:01org/dleyna-core.git
+[submodule "dleyna-connector-dbus"]
+	path = dleyna-connector-dbus
+	url = git@github.com:01org/dleyna-connector-dbus.git
+[submodule "dleyna-server"]
+	path = dleyna-server
+	url = git@github.com:01org/dleyna-server.git
+[submodule "dleyna-renderer"]
+	path = dleyna-renderer
+	url = git@github.com:01org/dleyna-renderer.git
+[submodule "dleyna-control"]
+	path = dleyna-control
+	url = git@github.com:01org/dleyna-control.git
