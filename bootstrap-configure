@@ -5,7 +5,8 @@ if [ -f config.status ]; then
 fi
 
 autoreconf -if && \
-    ./configure --enable-maintainer-mode \
+    ./configure --enable-master-build \
+		--enable-maintainer-mode \
 		--enable-silent-rules \
 		--disable-optimization \
 		--enable-debug \

@@ -53,8 +53,7 @@ follows:
      # git submodule update
 
    Configure and build
-     # ./autoreconf -i
-     # ./configure
+     # ./autogen.sh
      # make
 
    Final installation
