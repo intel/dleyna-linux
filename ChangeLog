@@ -1,3 +1,10 @@
+version 0.2.1
+	- dleyna-connector-dbus v0.2.0
+	- dleyna-core           v0.2.2
+	- dleyna-renderer       v0.2.2
+	- dleyna-server         v0.2.1
+	- dleyna-control        v0.2.0
+
 version 0.1.0
 	- dleyna-connector-dbus v0.1.0
 	- dleyna-core           v0.1.0
