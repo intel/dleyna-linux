@@ -1,7 +1,7 @@
 AC_PREREQ([2.66])
 
 AC_INIT([dleyna-linux],
-	[0.5.0],
+	[0.6.0],
 	[https://github.com/01org/dleyna-linux/issues/new],
 	,
 	[https://01.org/dleyna/])
@@ -22,4 +22,3 @@ AC_CONFIG_FILES([Makefile])
 AC_CONFIG_SUBDIRS([dleyna-core dleyna-connector-dbus dleyna-server dleyna-renderer])
 
 AC_OUTPUT
-
